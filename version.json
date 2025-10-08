@@ -5,10 +5,10 @@
   },
   "android": {
     "min_os_version": "5.0",
-    "current_version": "1.2.8",
-    "force_update_below": "1.2.8",
-    "optional_update_below": "1.2.8",
-    "store_url": "https://play.google.com/store/apps/details?id=com.bizkitthreesixty.lsa"
+    "current_version": "1.2.9",
+    "force_update_below": "1.2.9",
+    "optional_update_below": "1.2.9",
+    "store_url": "https://play.google.com/store/apps/details?id=com.threesixtyithub.en.unordermax"
   },
   "ios": {
     "min_os_version": "13.0",
