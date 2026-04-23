@@ -12,10 +12,10 @@
   },
   "ios": {
     "min_os_version": "13.0",
-    "current_version": "3.0.5",
-    "force_update_below": "3.0.5",
-    "optional_update_below": "3.0.5",
-    "store_url": ""
+    "current_version": "1.2.24",
+    "force_update_below": "1.2.24",
+    "optional_update_below": "1.2.24",
+    "store_url": "https://apps.apple.com/us/app/clarity-tnc-360-it-hub/id6758198472"
   },
   "messages": {
     "force_update": "A new version is available. Update for the best experience!",
