@@ -5,9 +5,9 @@
   },
   "android": {
     "min_os_version": "5.0",
-    "current_version": "1.2.53",
-    "force_update_below": "1.2.53",
-    "optional_update_below": "1.2.53",
+    "current_version": "1.2.54",
+    "force_update_below": "1.2.54",
+    "optional_update_below": "1.2.54",
     "store_url": "https://play.google.com/store/apps/details?id=com.threesixtyithub.en.uniordermax"
   },
   "ios": {
