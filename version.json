@@ -12,9 +12,9 @@
   },
   "ios": {
     "min_os_version": "13.0",
-    "current_version": "1.2.35",
-    "force_update_below": "1.2.35",
-    "optional_update_below": "1.2.35",
+    "current_version": "1.2.57",
+    "force_update_below": "1.2.57",
+    "optional_update_below": "1.2.57",
     "store_url": ""
   },
   "messages": {
