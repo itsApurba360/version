@@ -15,7 +15,7 @@
     "current_version": "1.0.0",
     "force_update_below": "1.0.0",
     "optional_update_below": "1.0.0",
-    "store_url":
+    "store_url":""
   },
   "messages": {
     "force_update": "A new version is available. Update for the best experience!",
